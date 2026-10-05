@@ -33,7 +33,7 @@ The end goal of this project is to design and manufacture ESC pcb, that can be c
 Example of how ESC should look like:
 
 <p align="center">
-    <img src="\Outputs/71JCXNh9OwL._AC_UF894,1000_QL80_.png" width="45%">
+    <img src="\Outputs/71JCXNh9OwL._AC_UF894,1000_QL80_.png" width="35%">
 </p>
 
 
