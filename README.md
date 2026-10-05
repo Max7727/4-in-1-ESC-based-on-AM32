@@ -19,16 +19,6 @@ The end goal of this project is to design and manufacture ESC pcb, that can be c
 
 
 # Schematics
-
-<p align="center">
-  <img src="Outputs/Screenshot1.png" width="70%">
-  <img src="Outputs/schematics (4).png" width="70%">
-  <img src="Outputs/schematics (2).png" width="70%">
-  <img src="Outputs/schematics (3).png" width="70%">
-</p>
-
-
-# Schematics
 ### Power delivery
 <img src="\Outputs/Screenshot1.png" >
 
@@ -41,7 +31,12 @@ The end goal of this project is to design and manufacture ESC pcb, that can be c
 # PCB
 ### PCB layout is not ready. The PCB layout for this design is currently in active development. 
 Example of how ESC should look like:
-<img src="\Outputs/71JCXNh9OwL._AC_UF894,1000_QL80_.png" >
+
+<p align="center">
+    <img src="\Outputs/71JCXNh9OwL._AC_UF894,1000_QL80_.png" width="60%">
+</p>
+
+
 
 
 Altium 25.8.1
