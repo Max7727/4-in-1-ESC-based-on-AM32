@@ -1,32 +1,17 @@
-# Prerequisites
-*.d
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+*.tmp
+*.docx
+*.PrjPcbStructure
 
-# Precompiled Headers
-*.gch
-*.pch
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+# Ignore an entire folder
+History/
+__Previews/
+Project Logs for First_pRoJeCt/
+Project Logs for esp32-s3-mini-1_CustomPCB_Altium/
+Project Outputs for esp32-s3-mini-1_CustomPCB_Altium/
 
-# Fortran module files
-*.mod
-*.smod
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
 
-# Executables
-*.exe
-*.out
-*.app
+
+
