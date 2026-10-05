@@ -30,7 +30,7 @@ The end goal of this project is to design and manufacture ESC pcb, that can be c
 
 # PCB
 ### PCB layout is not ready. The PCB layout for this design is currently in active development. 
-Example of how ESC should look like:
+Example of how ESC PCB should look like:
 
 <p align="center">
     <img src="\Outputs/71JCXNh9OwL._AC_UF894,1000_QL80_.png" width="35%">
