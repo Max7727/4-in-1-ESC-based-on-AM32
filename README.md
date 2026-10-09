@@ -7,7 +7,7 @@
 Custom 32-bit 4-in-1 Electronic Speed Controller (ESC) meant for a 6S battery-powered 5-inch FPV quadcopter. 
 
 
-### The end goal of this project is to design and manufacture ESC pcb, that can be connected to online-bought flight controler using JSH-SH.
+### The end goal of this project is to design and manufacture ESC pcb, that can be connected to online-bought flight controler.
 
 
 Features:
@@ -21,9 +21,6 @@ Features:
 * Popular JSH-SH connector for flight controller.
 
 The PCB layout for this design is currently in active development.
-
-
-
 
 
 # Schematics
@@ -48,13 +45,10 @@ Motors 3 and 4 likewise
 
 # PCB
 ### PCB layout is not ready. The PCB layout for this design is currently in active development. 
-Example of how ESC PCB should look like:
+Example of how ESC PCB will look like:
 
 <p align="center">
     <img src="\Outputs/71JCXNh9OwL._AC_UF894,1000_QL80_.png" width="35%">
 </p>
 
 
-
-
-Altium 25.8.1
