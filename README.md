@@ -23,9 +23,15 @@ The end goal of this project is to design and manufacture ESC pcb, that can be c
 <img src="\Outputs/Screenshot1.png" >
 
 ### Motor Gate Drivers
-<img src="\Outputs/Screenshot_2.png" >
-<img src="\Outputs/Screenshot_3.png" >
 
+Motor M1
+<img src="\Outputs/Screenshot_2.png" >
+
+Motor M2
+<img src="\Outputs/Screenshot_3.png" >
+<img src="\Outputs/Screenshot_4.png" >
+
+Motors 3 and 4 likewise
 
 
 # PCB
