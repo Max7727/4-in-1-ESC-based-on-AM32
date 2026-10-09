@@ -33,6 +33,10 @@ Motor M2
 
 Motors 3 and 4 likewise
 
+# Entire schematics
+<img src="\Outputs/Entire schematics.png" >
+
+
 
 # PCB
 ### PCB layout is not ready. The PCB layout for this design is currently in active development. 
