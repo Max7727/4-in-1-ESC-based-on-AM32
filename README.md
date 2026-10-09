@@ -4,18 +4,26 @@
 # 4-in-1 ESC based on AM32
 32-bit 4-in-1 FPV Drone ESC (Active Development)
 
-Custom 32-bit 4-in-1 Electronic Speed Controller (ESC) tailored for a 6S battery-powered 5-inch FPV quadcopter. 
+Custom 32-bit 4-in-1 Electronic Speed Controller (ESC) meant for a 6S battery-powered 5-inch FPV quadcopter. 
+
+
+### The end goal of this project is to design and manufacture ESC pcb, that can be connected to online-bought flight controler using JSH-SH.
+
 
 Features:
-* A robust power management tree stepping down 6S voltage to 8V via a SY8303 synchronous buck converter for gate drivers, and further to 3.3V via a CJA1117B LDO for the main MCU. 
-* A sensorless back-EMF zero-crossing detection circuit and a 3-phase inverter bridge utilizing NTMFS5C410NL MOSFETs. 
-* Four independent FD6288Q half-bridge gate drivers, an AT32F421K8U7 ARM Cortex-M4 microcontroller running AM32 firmware, and an INA199 bidirectional current shunt monitor. 
-
+* The AM32 Open Source firmware, users can modify and customize it themselves according to their needs. https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware
+* Power management stepping down 6S voltage to 8V via a SY8303 buck converter for gate drivers, and further to 3.3V via a CJA1117B LDO. 
+* A sensorless back-EMF zero-crossing detection circuit and a 3-phase inverter bridge utilizing NTMFS5C410NL MOSFETs.
+* Four independent FD6288Q half-bridge IC gate drivers, designed for high-voltage, high-speed drive MOSFETs.
+* AT32F421K8U7 ARM Cortex-M4 120MHz microcontroller running AM32 firmware.
+* An INA199 current shunt monitor (on-board galvanometer). 
+* Support a variety of motor protocols: servo PWM, Dshot300, Dshot600.
+* Popular JSH-SH connector for flight controller.
 
 The PCB layout for this design is currently in active development.
 
 
-The end goal of this project is to design and manufacture ESC pcb, that can be connected to online-bought flight controler.
+
 
 
 # Schematics
