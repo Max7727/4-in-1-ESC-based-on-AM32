@@ -5,12 +5,26 @@
 
 
 # Ignore an entire folder
+_Examplesssss/
 History/
 __Previews/
 Project Logs for First_pRoJeCt/
 Project Logs for esp32-s3-mini-1_CustomPCB_Altium/
 Project Outputs for esp32-s3-mini-1_CustomPCB_Altium/
 
+# Altium project & document files
+*.SchDoc
+*.PcbDoc
+*.PrjPcb
+*.PrjPcbStructure
+
+# Altium cache and local history
+History/
+__Lock/
+*.LOG
+*.html
+
+*.asc
 
 
 

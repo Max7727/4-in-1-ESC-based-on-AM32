@@ -32,11 +32,7 @@ The PCB layout for this design is currently in active development.
 Motor M1
 <img src="\Outputs/Screenshot_2.png" >
 
-Motor M2
-<img src="\Outputs/Screenshot_3.png" >
-<img src="\Outputs/Screenshot_4.png" >
-
-Motors 3 and 4 likewise
+Motors 2, 3 and 4 likewise
 
 # Entire schematics
 <img src="\Outputs/Entire schematics.png" >
